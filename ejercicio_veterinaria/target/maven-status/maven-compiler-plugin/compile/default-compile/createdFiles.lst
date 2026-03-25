@@ -1,0 +1,12 @@
+com\castagno\dev\ejercicioVeterinaria\Application.class
+com\castagno\dev\ejercicioVeterinaria\controller\DuenhoController.class
+com\castagno\dev\ejercicioVeterinaria\dto\MascotaDuenhoDTO.class
+com\castagno\dev\ejercicioVeterinaria\model\Duenho.class
+com\castagno\dev\ejercicioVeterinaria\repository\IDuenhoRepository.class
+com\castagno\dev\ejercicioVeterinaria\service\MascotaService.class
+com\castagno\dev\ejercicioVeterinaria\service\IDuenhoService.class
+com\castagno\dev\ejercicioVeterinaria\model\Mascota.class
+com\castagno\dev\ejercicioVeterinaria\service\DuenhoService.class
+com\castagno\dev\ejercicioVeterinaria\controller\MascotaController.class
+com\castagno\dev\ejercicioVeterinaria\repository\IMascotaRespoitory.class
+com\castagno\dev\ejercicioVeterinaria\service\IMascotaService.class
